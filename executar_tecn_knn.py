@@ -5,8 +5,8 @@
 # Para a execução do código foi utilizado a plataforma online JupyterLab (é uma IDE de python)
 #Acesso por https://jupyter.org/try
 
-# os arquivos de entrada são dadosDeTreinamento.csv e entrada.csv
-#os dados de treinamento (tem 960 registros) e serão utilizados pelo algoritmo para serem #utilizados de base no cálculo de distâncias euclidianas. Já o arquivo entrada.csv contém os mais #de 44mil registros a serem classificados pelo código.
+# os arquivos de entrada são dadosDeTreinamento2.csv e entrada.csv
+#os dados de treinamento (tem 1026 registros) e serão utilizados pelo algoritmo para serem #utilizados de base no cálculo de distâncias euclidianas. Já o arquivo entrada.csv contém os mais #de 44mil registros a serem classificados pelo código.
 
 #Implementado por Franklin Magalhães Ribeiro Junior
 
